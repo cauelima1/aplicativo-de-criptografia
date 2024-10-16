@@ -1,4 +1,4 @@
-# Aplicacao para Criptografia de textos
+# Aplicacao para Criptografia de palavras
 
 ## Informações do projeto 
 O projeto se trata de uma programação simples que efetua a leitura de uma palavra em letras,
