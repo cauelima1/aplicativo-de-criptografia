@@ -14,5 +14,6 @@ ao alfabeto, por exemplo:
 a letra 'a' recebe o valor 1, letra 'b' recebe o valor 2.
 
 Logo a criptografia da palavra Abacaxi seria:
-a  b  a  c  a  x   i
-1  2  1  3  1  24  9
+
+![image](https://github.com/user-attachments/assets/8a171d41-2077-4d50-8b7c-6de2512dd650)
+
