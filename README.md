@@ -13,7 +13,7 @@ ao alfabeto, por exemplo:
 
 a letra 'a' recebe o valor 1, letra 'b' recebe o valor 2.
 
-Logo a criptografia da palavra Abacaxi seria:
+Logo a criptografia da palavra Abacaxi seria: 12131249
 
 ![image](https://github.com/user-attachments/assets/8a171d41-2077-4d50-8b7c-6de2512dd650)
 
